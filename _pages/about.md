@@ -23,7 +23,7 @@ redirect_from:
 <h1 align="center"> This is the homepage for Yoghurt.(葛世寅)</h1>
 
 # About Me
-Still a student 😌 and will graduate at ==2023==. I am insterested in <u>Machine Learning/Deep Learning</u>, <u>Geographical Information Retrieval</u>, <u>Representation Learning</u>, <u>Spatial Analysis</u>. I'm looking for a chance to get rich overnight 👀
+Still a student 😌 and will graduate at **2023**. I am insterested in <u>Machine Learning/Deep Learning</u>, <u>Geographical Information Retrieval</u>, <u>Representation Learning</u>, <u>Spatial Analysis</u>. I'm looking for a chance to get rich overnight 👀
 
 Contact me via 📮<u>geshiyin@foxmail.com</u>
 
