@@ -27,7 +27,7 @@ Still a student 😌 and will graduate at **2023**. I am insterested in <u>Machi
 
 Contact me via 📮<u>geshiyin@foxmail.com</u>
 
-If you want to know more about me, please see my resume [[English Version]](../files/paper1.pdf) or [[Chinese Version]](../files/paper1.pdf)
+If you want to know more about me, please see my resume [[English Version]](../files/Resume_EN.pdf) or [[Chinese Version]](../files/Resume_CN.pdf)
 
 Education 🏫
 ======
@@ -44,7 +44,7 @@ Education 🏫
   <ul>
   <li>2016.09 - 2020.06 </li>
   Receive the Bachelor degree of Electrical Engineering in <a href="http://qiming.hust.edu.cn/">Qiming College</a>, <a href="http://ei.hust.edu.cn/">EIC</a>, <a href="https://www.hust.edu.cn/">HUST</a>. <br>
-  Weighted score: <b>86.82</b>/100
+  Weighted score: <b>86.88</b>/100
   </ul>
   <img class="badge" src="../images/hust.png">
 </div>
