@@ -23,7 +23,7 @@ redirect_from:
 <h1 align="center"> This is the homepage for Yoghurt.(葛世寅)</h1>
 
 # About Me
-Still a student 😌 and will graduate at **2023**. I am insterested in <u>Machine Learning/Deep Learning</u>, <u>Geographical Information Retrieval</u>, <u>Representation Learning</u>, <u>Spatial Analysis</u>. I'm looking for a chance to get rich overnight 👀
+Still a student and will graduate at **2023**. I am insterested in <u>Machine Learning/Deep Learning</u>, <u>Geographical Information Retrieval</u>, <u>Representation Learning</u>, <u>Spatial Analysis</u>. I'm looking for a chance to get rich overnight 👀
 
 Contact me via 📮<u>geshiyin@foxmail.com</u>
 
@@ -52,6 +52,8 @@ Education 🏫
 Publication 📑
 ======
 - *DeepSSN: a deep convolutional neural network to assess spatial scene similarity*<br>Danhuai Guo,**Shiyin Ge**\*, Shu Zhang, Song Gao, Ran Tao, Yangang Wang<br>**Transactions in GIS** 2022. [[Paper](https://arxiv.org/abs/2202.04755)]  [[Github](https://github.com/yoghur/Spatial-Query-by-Sketch)]
+- *The output indicators for COVID-19 patients: An intelligent data-driven approach to predicting disease progression*<br>Danhuai Guo; Zhifeng Yang; Yongjie Ding; **Shiyin Ge**\*; Chunbao Zhou; Jing Wang; Yangan Wang; Xia Zhou<br> **Frontiers in Medicine, received**
+- *Contrast representation learning for all scales of spatial scene*<br>**Shiyin Ge**\*, Danhuai Guo, Song Gao, Gengchen Mai, Yangang Wang<br>**ICLR 2023, submitted**
 - ==*waiting for more papers to be accepted* 😭==
 
 Awards 
